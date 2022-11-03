@@ -18,7 +18,7 @@ https://colab.research.google.com/drive/1N2cP3TYAnUHKCSB2S-OyJ7tsys-1wCCw?usp=sh
 
 
 Assignment 3 : (week 6) 
-19 - 24 Sept 2022
+26 Sept - 01 Oct 2022
 
 https://colab.research.google.com/drive/1N2cP3TYAnUHKCSB2S-OyJ7tsys-1wCCw?usp=sharing
 
@@ -26,6 +26,6 @@ https://colab.research.google.com/drive/1N2cP3TYAnUHKCSB2S-OyJ7tsys-1wCCw?usp=sh
 
 
 Assignment 4 : (week 7) 
-19 - 24 Sept 2022
+3 - 8 Oct 2022 
 
 https://colab.research.google.com/drive/1N2cP3TYAnUHKCSB2S-OyJ7tsys-1wCCw?usp=sharing
